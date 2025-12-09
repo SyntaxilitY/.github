@@ -4,12 +4,12 @@
 
 #### Smart · Practical · Reliable
 
-Welcome to Syntaxility — a technology consultancy and product studio that builds intelligent software, data systems, and AI-driven products that solve real business problems. We combine pragmatic engineering, user-centered design, and responsible AI to help organizations of any size move from ideas to production with speed and confidence.
+Welcome to SyntaxilitY — a technology consultancy and product studio that builds intelligent software, data systems, and AI-driven products that solve real business problems. We combine pragmatic engineering, user-centered design, and responsible AI to help organizations of any size move from ideas to production with speed and confidence.
 
 ---
 
 ## Quick facts
-- Company: Syntaxility
+- Company: SyntaxilitY
 - Industry: Software Engineering, Artificial Intelligence, Data Engineering, Cloud Services, app developments, Web developments, Desktop developments
 - Headquarters: Remote
 - Website: **"future updates"**
